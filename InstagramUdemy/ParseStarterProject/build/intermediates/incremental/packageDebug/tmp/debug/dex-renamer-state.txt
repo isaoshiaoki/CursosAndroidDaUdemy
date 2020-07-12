@@ -1,0 +1,7 @@
+#Thu Apr 12 06:38:05 BRT 2018
+base.0=C\:\\ANDROID.WORKSPACE\\CURSO.UDEMY.INSTAGRAM\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\27
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\ANDROID.WORKSPACE\\CURSO.UDEMY.INSTAGRAM\\Instagram\\ParseStarterProject\\build\\intermediates\\transforms\\dexMerger\\debug\\28
