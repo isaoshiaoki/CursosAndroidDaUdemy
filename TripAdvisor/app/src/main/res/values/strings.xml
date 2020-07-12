@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MeuTripAdvisor</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tela_lugar">Tela Lugar</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
